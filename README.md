@@ -7,5 +7,6 @@ Description
                                                                                                                                                                        
 Programming Language                                                                                                                                                   
    Java, JavaScript, MySQL
-                                                                                                                                                                                                                                                                                                                                           Tools/IDE                                                                                                                                                               
+                                                                                                                                                                         
+                                                                                                                                                                         Tools/IDE                                                                                                                                                               
     Eclipse, MySQL Workbench
