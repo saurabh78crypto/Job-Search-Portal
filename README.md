@@ -6,10 +6,6 @@ Description
       to create, retrieve, update, and delete information.                                                                                                             
                                                                                                                                                                        
 Programming Language                                                                                                                                                   
-   Java, JavaScript, SQL
-                                                                                                                                                                       
-Technologies                                                                                                                                                           
-   J2EE, Maven, Servlets, JSP, HTML, CSS
-                                                                                                                                                                       
-Tools/IDE                                                                                                                                                               
-   Spring Tool Suite, Eclipse, MySQL Workbench
+   Java, JavaScript, MySQL
+                                                                                                                                                                                                                                                                                                                                           Tools/IDE                                                                                                                                                               
+    Eclipse, MySQL Workbench
